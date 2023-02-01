@@ -5,6 +5,9 @@
     },
     {
       "path": "Marco"
+    },
+    {
+      "path": "Marco.Test"
     }
   ],
   "settings": {}
