@@ -1,0 +1,28 @@
+{
+  "id": "f4c43aa0-0b6d-4014-85ef-2392658f31a7",
+  "name": "Marco",
+  "publisher": "Vokeso",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "19.0.0.0",
+  "idRanges": [
+    {
+      "from": 58100,
+      "to": 58200
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": false,
+    "includeSourceInSymbolFile": false
+  }
+}
