@@ -4,7 +4,7 @@ This template repository can be used for managing Per Tenant Extensions for Busi
 
 Please consult https://github.com/microsoft/AL-Go/#readme for scenarios on usage
 
-```
+```mermaid
 journey
 	title Me studying for exams
 	section Exam is announced
